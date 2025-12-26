@@ -15,6 +15,7 @@
 - Implementação da classe **`Db`**, que funciona de forma semelhante a um **ORM**, simplificando:
   - Montagem de comandos SQL.
   - Execução de consultas e operações no banco.
+  Obs.: todos os métodos dessa classe são de minha autoria, sem uso de bibliotecas externas.
 - Utilização da biblioteca **Npgsql** para conexão com o PostgreSQL.
 - As classes de entidade (**Models**) foram nomeadas em **lowercase**, seguindo a padronização de nomes do PostgreSQL, o que facilita o mapeamento direto entre objetos e tabelas.
 
